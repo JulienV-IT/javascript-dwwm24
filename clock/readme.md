@@ -20,7 +20,7 @@ horloge
 1 fichier css
 1 fichier js
 
-html: anais vladimir
+html/css: anais vladimir melvin
 body
 	header
 		nav, avec about us 
@@ -33,13 +33,13 @@ body
 
 **customization**
 
-	* modifier l'apparance des chiffres (chiffres romains) mahdi
+	* modifier l'apparance des chiffres (chiffres romains) mahdi rachid
 
 	* modifier l'apparence des aiguilles fabrice 
 
 	* background pizza derriere l'horloge	tahya
 
-	* souris sur l'aiguille
+	* sourie sur l'aiguille matéo
 
 
 
@@ -63,7 +63,7 @@ dessiner les aiguilles
 		ctx.stroke
 	
 
-gestion du temps :
+gestion du temps : 
 	
 	
 	* déplacement des aiguilles  
@@ -73,7 +73,7 @@ afficher la date!
 
 
 
-	_contrainte:_
+	_contrainte:_ remy charles 
 
 	* récuperer l'heure des differents fuseaux horaires
 

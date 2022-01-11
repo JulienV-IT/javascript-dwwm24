@@ -6,3 +6,8 @@ ctx.beginPath();
 ctx.fillStyle = "orange";
 ctx.arc(300, 300, 300, 0, 2 * Math.PI);
 ctx.stroke();
+
+
+
+
+
